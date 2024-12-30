@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-	<link rel="stylesheet" href="./resume.css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    
-		<link rel="modulepreload" href="./_app/immutable/entry/start.Bi_4qQXw.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/entry.DEORA2R-.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/runtime.DVmAVPAN.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index-client.DNI3gCIi.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.nLrizMrm.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/render.Bk9H9iQr.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/disclose-version.D48o4b0F.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.DZLjTBPp.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/2.BOHbXCmG.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/legacy.CHFpNJ_D.js">
-  </head>
-  <body data-sveltekit-preload-data="hover">
-    <div style="display: contents"><!--[--><!--[--><!----><!----><body data-new-gr-c-s-check-loaded="14.1215.0" data-gr-ext-installed=""><div class="row no-gutters" id="resume"><div class="col-md-4 left-col"><div class="left-col-wrapper"><div class="text-lg-left left-col-content"><div class="d-flex flex-column h-100"><h2 class="mg-clear name-text"><strong>DANG TRONG TAI</strong></h2> <h6 class="mg-sm position-text"><strong>FULL-STACK WEB DEVELOPER</strong></h6> <img src="./avt.jpg" class="img-fluid rounded-circle mx-auto d-block mg-md img-avatar" alt="avatar"> <h6 class="mg-sm mt-0 text-center position-text"><strong>WHY ME?</strong></h6> <div class="mg-clear row"><p class="summary-text">I am a skilled developer who is highly motivated and
+import{a as l,t as e}from"../chunks/disclose-version.D48o4b0F.js";import"../chunks/legacy.CHFpNJ_D.js";var i=e(`<body data-new-gr-c-s-check-loaded="14.1215.0" data-gr-ext-installed=""><div class="row no-gutters" id="resume"><div class="col-md-4 left-col"><div class="left-col-wrapper"><div class="text-lg-left left-col-content"><div class="d-flex flex-column h-100"><h2 class="mg-clear name-text"><strong>DANG TRONG TAI</strong></h2> <h6 class="mg-sm position-text"><strong>FULL-STACK WEB DEVELOPER</strong></h6> <img src="./avt.jpg" class="img-fluid rounded-circle mx-auto d-block mg-md img-avatar" alt="avatar"> <h6 class="mg-sm mt-0 text-center position-text"><strong>WHY ME?</strong></h6> <div class="mg-clear row"><p class="summary-text">I am a skilled developer who is highly motivated and
                   independent with 6 years of experience in PHP and Node.js web
                   development. I am detail-oriented and have extensive knowledge
                   of HTML, JavaScript, Angular, MySQL, PostgreSQL, etc. As a
@@ -71,29 +44,4 @@
                     connect and work together.<br> • Technologies: PHP Laravel<br> • Size: 2 MMs<br></div></div></div> <div class="row no-gutters"><div class="col align-self-center"><p class="mg-clear float-right"><span class="fa fa-map-marker icon-sm"></span> Hanoi, Vietnam</p></div></div></div></div> <hr> <div class="row no-gutters table-row"><div class="col-sm-2"><p class="table-index-style mg-clear"><strong>Oct 2019<br> Jul 2019<br></strong></p></div> <div class="col"><div class="row no-gutters"><div class="align-self-start col"><h6 class="mg-clear table-label-style"><strong>ONLINE CAR IMAGE DESIGN</strong></h6></div> <div><div class="mg-clear table-sublabel-style"><strong>FRONT-END DEVELOPER</strong></div></div></div> <div class="mg-xs row no-gutters"><div class="col"><div class="col">• Description: A Web app for customers to book and auto
                     design their car's image.<br> • Technologies: PHP<br> • Size: 3 MMs<br></div></div></div> <div class="row no-gutters"><div class="col align-self-center"><p class="mg-clear float-right"><span class="fa fa-map-marker icon-sm"></span> Hanoi, Vietnam</p></div></div></div></div> <hr> <div class="row no-gutters table-row"><div class="col-sm-2"><p class="table-index-style mg-clear"><strong>Apr 2019<br> Apr 2019<br></strong></p></div> <div class="col"><div class="row no-gutters"><div class="align-self-start col"><h6 class="mg-clear table-label-style"><strong>CANDIDATES AND JOBS MATCHING SYSTEM</strong></h6></div> <div><div class="mg-clear table-sublabel-style"><strong>FRONT-END DEVELOPER</strong></div></div></div> <div class="mg-xs row no-gutters"><div class="col"><div class="col">• Description: A system that matches jobs and talents based
                     on competencies, objective and transparent selection process
-                    for recruiting needs.<br> • Technologies: Angular<br> • Size: 5 MMs<br></div></div></div> <div class="row no-gutters"><div class="col align-self-center"><p class="mg-clear float-right"><span class="fa fa-map-marker icon-sm"></span> Hanoi, Vietnam</p></div></div></div></div></section> <div class="footer-padding"></div></div></div></body><!----><!----><!----><!--]--> <!--[!--><!--]--><!--]-->
-			
-			<script>
-				{
-					__sveltekit_1i3kugo = {
-						base: new URL(".", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					Promise.all([
-						import("./_app/immutable/entry/start.Bi_4qQXw.js"),
-						import("./_app/immutable/entry/app.nLrizMrm.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 2],
-							data: [null,null],
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-  </body>
-</html>
+                    for recruiting needs.<br> • Technologies: Angular<br> • Size: 5 MMs<br></div></div></div> <div class="row no-gutters"><div class="col align-self-center"><p class="mg-clear float-right"><span class="fa fa-map-marker icon-sm"></span> Hanoi, Vietnam</p></div></div></div></div></section> <div class="footer-padding"></div></div></div></body>`);function o(s){var a=i();l(s,a)}export{o as component};
