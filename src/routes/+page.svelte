@@ -93,9 +93,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>BAC HA SOFTWARE CO., LTD.</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -147,9 +147,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>VINH UNIVERSITY</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -914,65 +914,6 @@
               </p>
             </div>
           </div>
-
-          <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Present<br />
-                  Aug 2024<br />
-                </strong>
-              </p>
-            </div>
-            <div class="col">
-              <div class="row no-gutters">
-                <div class="align-self-start col">
-                  <h6 class="mg-clear table-label-style">
-                    <strong
-                      >SMART POLES &amp; SMART LIGHTING MANAGEMENT
-                      SYSTEM</strong
-                    >
-                  </h6>
-                </div>
-                <div>
-                  <label class="mg-clear table-sublabel-style">
-                    <strong>BACK-END DEVELOPER</strong>
-                  </label>
-                </div>
-              </div>
-
-              <div class="mg-xs row no-gutters">
-                <div class="col">
-                  <div class="col">
-                    • Description: A platform for efficiently controlling and
-                    monitoring smart poles in cities. It provides real-time data
-                    on street lighting, environmental conditions, and public
-                    safety, allowing for remote adjustments and predictive
-                    maintenance through a user-friendly interface.<br />
-                    • Technologies:
-                    <li style="margin-left: 15px; list-style-type: square">
-                      Web: Node.js, Python, React
-                    </li>
-                    <li style="margin-left: 15px; list-style-type: square">
-                      Mobile: React Native
-                    </li>
-                    <br />
-                    • Size: 27 MMs<br />
-                  </div>
-                </div>
-              </div>
-
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-
           <hr />
           <div class="row no-gutters table-row">
             <div class="col-sm-2">
@@ -991,9 +932,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>BACK-END DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1042,9 +983,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>BACK-END DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1090,9 +1031,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FRONT-END DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1140,9 +1081,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FULL-STACK WEB DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1187,9 +1128,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FULL-STACK WEB DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1250,9 +1191,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>BACK-END DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1299,9 +1240,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FULL-STACK WEB DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1345,9 +1286,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>SOFTWARE DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1390,9 +1331,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FULL-STACK WEB DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1439,9 +1380,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FULL-STACK WEB DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1488,9 +1429,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FRONT-END WEB DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1537,9 +1478,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FULL-STACK WEB DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1582,9 +1523,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FULL-STACK WEB DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1629,9 +1570,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FULL-STACK WEB DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1675,9 +1616,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FRONT-END DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
@@ -1721,9 +1662,9 @@
                   </h6>
                 </div>
                 <div>
-                  <label class="mg-clear table-sublabel-style">
+                  <div class="mg-clear table-sublabel-style">
                     <strong>FRONT-END DEVELOPER</strong>
-                  </label>
+                  </div>
                 </div>
               </div>
 
