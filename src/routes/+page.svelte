@@ -257,7 +257,7 @@
                     >
                       <div
                         class="progress-bar"
-                        style="width: 80%; background-color: #fc8404"
+                        style="width: 50%; background-color: #fc8404"
                         role="progressbar"
                         aria-valuenow="25"
                         aria-valuemin="0"
@@ -266,7 +266,7 @@
                     </div>
                   </div>
                   <div class="col-1">
-                    <p class="mg-clear text-center">80</p>
+                    <p class="mg-clear text-center">50</p>
                   </div>
                 </div>
                 <div class="row no-gutters table-row-thin">
@@ -280,7 +280,7 @@
                     >
                       <div
                         class="progress-bar"
-                        style="width: 85%; background-color: #fc8404"
+                        style="width: 80%; background-color: #fc8404"
                         role="progressbar"
                         aria-valuenow="25"
                         aria-valuemin="0"
@@ -522,7 +522,7 @@
                   </div>
                 </div>
               </div>
-              <div class="skill-block">
+              <!-- <div class="skill-block">
                 <div class="row no-gutters table-header">
                   <div class="col-1"></div>
                   <div class="align-self-center col-11">
@@ -578,7 +578,7 @@
                     <p class="mg-clear text-center">80</p>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
             <div class="col-sm-6 skill-col-right">
               <div class="skill-block">
@@ -910,20 +910,12 @@
             <div class="col-sm-2 col-1"></div>
             <div class="align-self-center col">
               <p class="mg-clear float-lg-none table-header-text">
-                <strong>ATTENDED PROJECTS</strong>
+                <strong>SOME ATTENDED PROJECTS</strong>
               </p>
             </div>
           </div>
-          <hr />
+          <!-- <hr /> -->
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Dec 2024<br />
-                  Apr 2023<br />
-                </strong>
-              </p>
-            </div>
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -954,27 +946,12 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+             
             </div>
           </div>
 
           <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Mar 2023<br />
-                  Jan 2023<br />
-                </strong>
-              </p>
-            </div>
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1002,27 +979,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+             
             </div>
           </div>
 
-          <hr />
+          <!-- <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Dec 2022<br />
-                  Sep 2022<br />
-                </strong>
-              </p>
-            </div>
+           
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1050,27 +1013,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
-          </div>
+          </div> -->
 
           <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Sep 2022<br />
-                  Apr 2022<br />
-                </strong>
-              </p>
-            </div>
+          
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1099,26 +1048,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+            
             </div>
           </div>
 
-          <hr />
+          <!-- <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Apr 2022<br />
-                  Dec 2021<br />
-                </strong>
-              </p>
+          
             </div>
             <div class="col">
               <div class="row no-gutters">
@@ -1162,27 +1098,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+             
             </div>
-          </div>
+          </div> -->
 
-          <hr />
+          <!-- <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Dec 2021<br />
-                  Jun 2021<br />
-                </strong>
-              </p>
-            </div>
+          
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1211,27 +1133,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+             
             </div>
-          </div>
+          </div> -->
 
-          <hr />
+          <!-- <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Nov 2021<br />
-                  Aug 2021<br />
-                </strong>
-              </p>
-            </div>
+          
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1257,27 +1165,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+             
             </div>
-          </div>
-
+          </div> -->
+<!-- 
           <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Aug 2021<br />
-                  May 2021<br />
-                </strong>
-              </p>
-            </div>
+           
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1302,27 +1196,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
-          </div>
+          </div> -->
 
-          <hr />
+          <!-- <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Jan 2021<br />
-                  Oct 2020<br />
-                </strong>
-              </p>
-            </div>
+           
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1349,27 +1229,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
-          </div>
+          </div> -->
 
-          <hr />
+          <!-- <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Dec 2020<br />
-                  Dec 2020<br />
-                </strong>
-              </p>
-            </div>
+           
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1398,27 +1264,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
           </div>
 
-          <hr />
-          <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Jul 2020<br />
-                  Jun 2020<br />
-                </strong>
-              </p>
-            </div>
+          <hr /> -->
+          <!-- <div class="row no-gutters table-row">
+           
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1447,27 +1299,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
-          </div>
+          </div> -->
 
           <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  Jun 2020<br />
-                  Apr 2020<br />
-                </strong>
-              </p>
-            </div>
+           
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1494,27 +1332,13 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
           </div>
 
           <hr />
           <div class="row no-gutters table-row">
-            <div class="col-sm-2">
-              <p class="table-index-style mg-clear">
-                <strong>
-                  May 2020<br />
-                  Dec 2019<br />
-                </strong>
-              </p>
-            </div>
+          
             <div class="col">
               <div class="row no-gutters">
                 <div class="align-self-start col">
@@ -1541,18 +1365,11 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
           </div>
 
-          <hr />
+          <!-- <hr />
           <div class="row no-gutters table-row">
             <div class="col-sm-2">
               <p class="table-index-style mg-clear">
@@ -1587,18 +1404,11 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
-          </div>
+          </div> -->
 
-          <hr />
+          <!-- <hr />
           <div class="row no-gutters table-row">
             <div class="col-sm-2">
               <p class="table-index-style mg-clear">
@@ -1633,18 +1443,11 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
-          </div>
+          </div> -->
 
-          <hr />
+          <!-- <hr />
           <div class="row no-gutters table-row">
             <div class="col-sm-2">
               <p class="table-index-style mg-clear">
@@ -1680,16 +1483,9 @@
                 </div>
               </div>
 
-              <div class="row no-gutters">
-                <div class="col align-self-center">
-                  <p class="mg-clear float-right">
-                    <span class="fa fa-map-marker icon-sm"></span>
-                    Hanoi, Vietnam
-                  </p>
-                </div>
-              </div>
+              
             </div>
-          </div>
+          </div> -->
         </section>
 
         <div class="footer-padding"></div>

@@ -21,6 +21,43 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 1rem;
 }
+/* 
+@media print{
+  body{
+      width: 3508px;
+      height: 2480px;
+      font-size: 0.75rem;
+  }
+} */
+
+@media print {
+  ::first-letter{
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    &, body {
+      margin: 0;
+      background: #fff;
+      background: transparent;
+      padding-top: 0;
+      padding-bottom: 0;
+      font-size: 11px;
+    }
+  }
+  .container {
+    padding: 0 !important;
+    margin:0 !important;
+    width: 100% !important;
+    max-width: none !important;
+    min-width: unset !important;
+  }
+
+  @page {
+    size: 8.5in 11in;
+    margin: 0.25in;
+  }
+}
 
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
@@ -99,12 +136,12 @@ body {
 /* RIGHT */
 .right-col {
   background-color: #ffffff;
-  padding: 3rem 1rem !important;
+  padding: 0.5rem 1rem !important;
   font-size: 0.9rem;
 }
 .table-header {
   background-color: #5cbc44;
-  height: 1.6rem;
+  /* height: 1.6rem; */
 }
 .table-header-text {
   color: #ffffff !important;
@@ -171,11 +208,14 @@ hr {
 }
 
 section {
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
 }
 .item {
   margin-bottom: 1rem;
 }
 #resume {
   min-height: 100vh;
+}
+.row{
+  --bs-gutter-x: 0
 }
